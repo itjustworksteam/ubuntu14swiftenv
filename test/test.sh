@@ -1,6 +1,6 @@
 #!/bin/bash
 
 printf "\n"
-echo "swift -version"
-swift -version
+echo "swiftenv --version"
+swiftenv --version
 printf "\n\n"
